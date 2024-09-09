@@ -3,12 +3,12 @@
 sequence_id: 5
 
 # Speaker name
-speaker: MUSE 1
+speaker: TBA
 
 # Title of the event
-title: Coffee Break and Posters
+title: TBA
 
 # Time of the event
-time: 10:40-11:10
+time: 15:25-16:00
 
 ---

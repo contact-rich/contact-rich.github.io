@@ -6,10 +6,10 @@ sequence_id: 3
 speaker: See details below
 
 # Title of the event
-title: Spotlight Talks
+title: Poster Session & Coffee Break
 
 # Time of the event
-time: 9:40-10:10
+time: 14:20-14:50
 
-video_url: "https://www.youtube.com/watch?v=tZKwTE2poC8&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=4"
+# video_url: "https://www.youtube.com/watch?v=tZKwTE2poC8&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=4"
 ---

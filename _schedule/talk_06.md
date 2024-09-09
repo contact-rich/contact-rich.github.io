@@ -3,13 +3,13 @@
 sequence_id: 6
 
 # Speaker name
-speaker: Dieter Fox
+speaker: Yunzhu Li, Russ Tedrake, Ken Goldberg, Kris Hauser
 
 # Title of the event
-title: 'Simulation Benchmarking for Real World Deployment'
+title: 'Debate: Do Future Robots Require Us to Learn Anything, or Will We Be Replaced by Datasets?'
 
 # Time of the event
-time: 11:10-11:40
+time: 16:00-17:00
 
-video_url: "https://www.youtube.com/watch?v=tAEB2OgNf2c&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=6"
+# video_url: "https://www.youtube.com/watch?v=pGjzxdD2Sa4&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=13"
 ---

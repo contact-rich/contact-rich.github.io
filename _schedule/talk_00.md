@@ -9,9 +9,9 @@ speaker: Organizers
 title: Opening remarks
 
 # Time of the event
-time: 8:30-8:40
+time: 13:00-13:10
 
-video_url: "https://www.youtube.com/watch?v=OnvKJ3lKS20&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=1"
+# video_url: "https://www.youtube.com/watch?v=OnvKJ3lKS20&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=1"
 
 ---
 <!-- 

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Deployable@CoRL2023
+title: Contact-Rich@ICRA2025
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
    
@@ -44,7 +44,7 @@ header_pages:
 - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-# masthead: assets/img/banner.jpg
+masthead: assets/img/banner.png
 # # Description (alt text) for the masthead
 # masthead_description: Adapted from Machine Learning & Artificial Intelligence by mikemacmarketing; licensed under CC BY 2.0
 

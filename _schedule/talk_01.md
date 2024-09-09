@@ -3,13 +3,13 @@
 sequence_id: 1
 
 # Speaker name
-speaker: Stefan Schaal
+speaker: TBA
 
 # Title of the event
-title: 'AI-Enabled Robots: Towards Real-World Applications'
+title: TBA 
 
 # Time of the event
-time: 8:40-9:10
-video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
+time: 13:10-13:45
+# video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
 ---
 

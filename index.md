@@ -4,23 +4,28 @@
 
 permalink: /
 title: Home
-workshop_title: Towards Reliable and Deployable Learning-Based Robotic Systems
+workshop_title: Learning Meets Model-Based Methods for Contact-Rich Manipulation
 layout: home
-conference_title: Conference on Robot Learning 2023, Atlanta, USA
-workshop_date: Monday, Nov 6th, 2023
-workshop_length: Full-day workshop
+conference_title: ICRA 2025, Atlanta, USA
+workshop_date: Monday, May 19th, 2025
+workshop_length: Half-day workshop
 ---
 
-The field of robot learning has made substantial progress in endowing robots with greater capability, yet the large-scale real-world adoption of learning-based robotic systems remains limited. This workshop aims to dissect this phenomenon and to identify best practices that could lead to a paradigm shift in how we conceive and build reliable learning-based robotic systems. 
 
-We intend to guide our conversations with the following topics:
-1. What are the key challenges in deploying learning-based systems in the real world?
-2. What are the ingredients to ensure the reliability and robustness of learning-based robotic systems? 
-3. How should we design learning algorithms that handle edge cases and unforeseen scenarios in the real world?
-4. What role does simulation play in the testing and verification of these systems?
-5. What are the key success stories and lessons learned from existing deployments of classical robotic systems?
+This workshop explores the challenge of enabling robots to autonomously handle complex, contact-rich interactions. Traditionally, model-based methods have provided structured frameworks for planning and control, while recent learning-based methods have leveraged large datasets to achieve new capabilities. However, these methods often overlook the structured insights that model-based approaches offer. As robotics continues to evolve, there is a growing need to integrate the adaptability of learning-based techniques with the precision and efficiency of model-based strategies.
 
-Due to the interdisciplinary nature of this workshop, we encourage participants not only from the robot learning community, but equally importantly those from classical robotics and control systems, as well as industry practitioners with first-hand experience deploying such systems.
+The workshop will bring together researchers to debate the future of dexterous robot manipulation and the roles of model-based optimization versus data-driven approaches. Key questions to be explored include:
+
+- Is a structured approach still necessary for future robots, or can expressive neural networks alone suffice?
+- What role will model-based optimization play in the future of dexterous robot manipulation?
+- How can we effectively use limited data to train robots, and should we impose more structure to enhance learning?
+- Will the development of comprehensive robot datasets remain an open challenge?
+- Can the integration of model-based and learning-based methods lead to more robust and versatile robotic systems?
+
+The workshop will feature talks, presentations, and heated debates to evaluate how these approaches can be combined to enhance robotic autonomy and efficiency in contact-rich environments. Participants will critically examine whether traditional robotics techniques remain relevant in a field increasingly dominated by machine learning and discuss the skills and strategies needed to develop the next generation of intelligent robots.
+
+
+
 
 &nbsp;
 &nbsp;
@@ -30,13 +35,13 @@ Due to the interdisciplinary nature of this workshop, we encourage participants 
 
 Important Dates:
 
-- Submission portal opens: 2023/09/01
-- Paper submission deadline: ~~2023/10/01~~ <span style="color:red">2023/10/05</span>
-- Notification of acceptance: ~~2023/10/13~~ <span style="color:red">2023/10/23</span>
-- Workshop date: 2023/11/06
+- Submission portal opens: TBA
+- Paper submission deadline: TBA 
+- Notification of acceptance: TBA 
+- Workshop date: 2025/05/19
 
 See our [Call for papers page](/callforpapers) for more details.
-Submission will be accepted through [OpenReview](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Workshop/Deployable).
+Submission will be accepted through [OpenReview]().
 
 
 &nbsp;
@@ -49,108 +54,96 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
 <div class="grid">
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/xiaolong_wang.jpg" width="200"/>
-        <figcaption><b>Xiaolong Wang</b><br>UC San Diego</figcaption>
+            <img src="assets/img/speakers/russ_tedrake.png" width="200" />
+            <figcaption><b>Russ Tedrake</b><br>MIT</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/stefan_schaal.jpg" width="200" /> 
-        <figcaption><b>Stefan Schaal</b><br>Intrinsic</figcaption>
+            <img src="assets/img/speakers/ken_goldberg.jpg" width="200" />
+            <figcaption><b>Ken Goldberg</b><br>UC Berkeley</figcaption>
         </figure>
     </div>
     <div class="grid-item">
         <figure>
-        <img src="assets/img/speakers/sergey_levine.jpg" width="200" />
-        <figcaption><b>Sergey Levine</b><br>UC Berkeley</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/scott_kuindersma.jpg" width="200" />
-        <figcaption><b>Scott Kuindersma</b><br>Boston Dynamics</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/russ_tedrake.png" width="200" />
-        <figcaption><b>Russ Tedrake</b><br>MIT, Toyota Research Institute</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/nicolas_heess.jpg" width="200" />
-        <figcaption><b>Nicolas Heess</b><br>Deepmind</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/emo_todorov.jpg" width="200" />
-        <figcaption><b>Emo Todorov</b><br>University of Washington</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/dieter_fox.jpg" width="200" />
-        <figcaption><b>Dieter Fox</b><br>University of Washington, Nvidia</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-        <img src="assets/img/speakers/chelsea_finn.jpg" width="200" />
-        <figcaption><b>Chelsea Finn</b><br>Stanford University</figcaption>
+            <img src="assets/img/speakers/kris_hauser.jpg" width="200" />
+            <figcaption><b>Kris Hauser</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
     </div>
 </div>
 
 &nbsp;
+
+### Debate Moderator
+&nbsp;
+
+<div class="grid">
+    <div class="grid-item">
+        <figure>
+            <img src="assets/img/speakers/yunzhu_li.jpg" width="200" />
+            <figcaption><b>Yunzhu Li</b><br>Columbia University</figcaption>
+        </figure>
+    </div>
+</div>
+
 
 
 ### Organizers
 &nbsp;
 
-
 <div class="grid">
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/jianlan_luo.jpg" width="200"/>
-        <figcaption><b>Jianlan Luo</b><br>UC Berkeley</figcaption>
+            <img src="assets/img/organizers/haonan_chen.jpg" width="200"/>
+            <figcaption><b>Haonan Chen</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/fangchen_liu.jpg" width="200" /> 
-        <figcaption><b>Fangchen Liu</b><br>UC Berkeley</figcaption>
+            <img src="assets/img/organizers/lujie_yang.jpg" width="200" /> 
+            <figcaption><b>Lujie Yang</b><br>Massachusetts Institute of Technology</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/tony_zhao.jpg" width="200" />
-        <figcaption><b>Tony Zhao</b><br>Stanford University</figcaption>
+            <img src="assets/img/organizers/shaoxiong_yao.jpg" width="200" />
+            <figcaption><b>Shaoxiong Yao</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/huihan_liu.jpg" width="200" />
-        <figcaption><b>Huihan Liu</b><br>UT Austin</figcaption>
+            <img src="assets/img/organizers/jiayuan_mao.jpg" width="200" />
+            <figcaption><b>Jiayuan Mao</b><br>Massachusetts Institute of Technology</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/lerrel_pinto.jpg" width="200" />
-        <figcaption><b>Lerrel Pinto</b><br>New York University</figcaption>
+            <img src="assets/img/organizers/hyung_ju_terry_suh.jpg" width="200" />
+            <figcaption><b>Hyung Ju Terry Suh</b><br>Massachusetts Institute of Technology</figcaption>
         </figure>
     </div>
     <div class="gridorg-item">
         <figure>
-        <img src="assets/img/organizers/yuke_zhu.jpg" width="200" />
-        <figcaption><b>Yuke Zhu</b><br>UT Austin</figcaption>
+            <img src="assets/img/organizers/yifeng_zhu.jpg" width="200" />
+            <figcaption><b>Yifeng Zhu</b><br>University of Texas at Austin</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+            <img src="assets/img/organizers/letian_max_fu.jpg" width="200" />
+            <figcaption><b>Letian (Max) Fu</b><br>University of California, Berkeley</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
+            <img src="assets/img/organizers/katherine_driggs_campbell.png" width="200" />
+            <figcaption><b>Katherine Driggs-Campbell</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
     </div>
 </div>
 
 
-### Advisor
+<!-- ### Advisor
 
 <div class="grid">
     <div class="grid-item">
@@ -159,4 +152,4 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
         <figcaption><b>Pieter Abbeel</b><br>UC Berkeley</figcaption>
         </figure>
     </div>
-</div>
+</div> -->
