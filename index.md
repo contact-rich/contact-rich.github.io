@@ -136,6 +136,12 @@ Submission will be accepted through [OpenReview]().
     </div>
     <div class="gridorg-item">
         <figure>
+            <img src="assets/img/organizers/weicheng_huang.jpg" width="200" />
+            <figcaption><b>Wei-Cheng Huang</b><br>University of Illinois Urbana-Champaign</figcaption>
+        </figure>
+    </div>
+    <div class="gridorg-item">
+        <figure>
             <img src="assets/img/organizers/katherine_driggs_campbell.png" width="200" />
             <figcaption><b>Katherine Driggs-Campbell</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
