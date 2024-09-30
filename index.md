@@ -48,7 +48,7 @@ Submission will be accepted through [OpenReview]().
 &nbsp;
 
 
-### Speakers
+### Speakers and Panelists
 &nbsp;
 
 <div class="grid">
@@ -70,6 +70,19 @@ Submission will be accepted through [OpenReview]().
             <figcaption><b>Kris Hauser</b><br>University of Illinois Urbana-Champaign</figcaption>
         </figure>
     </div>
+    <div class="grid-item">
+        <figure>
+            <img src="assets/img/speakers/danica_kragic.png" width="200" />
+            <figcaption><b>Danica Kragic</b><br>Royal Institute of Technology (KTH)</figcaption>
+        </figure>
+    </div>
+    <div class="grid-item">
+        <figure>
+            <img src="assets/img/speakers/katerina_fragkiadaki.png" width="200" />
+            <figcaption><b>Katerina Fragkiadaki</b><br>Carnegie Mellon University</figcaption>
+        </figure>
+    </div>
+
 </div>
 
 &nbsp;
