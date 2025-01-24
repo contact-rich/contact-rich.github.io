@@ -1,0 +1,28 @@
+# Exclude configuration files that might contain sensitive information
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+Gemfile.lock
+node_modules/
+vendor/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE specific files
+*.swp
+*~
+.project
+.idea/
+*.sublime-workspace
+
+# Temp files
+*.tmp

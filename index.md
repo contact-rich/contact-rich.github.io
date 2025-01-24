@@ -100,6 +100,26 @@ Submission will be accepted through [OpenReview]().
 </div>
 
 
+### Sponsors
+
+<div class="grid">
+    <div>
+        <figure style="text-align: center;">
+            <a href="https://www.carbon6robotics.com/" target="_blank">
+                <img src="assets/img/sponsors/carbon_six_logo.png" style="height: 150px; object-fit: contain;" alt="CarbonSix Logo" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">CarbonSix</figcaption>
+        </figure>
+    </div>
+    <div>
+        <figure style="text-align: center;">
+            <a href="https://www.berkshiregrey.com/" target="_blank">
+                <img src="assets/img/sponsors/BerkshireGrey-Logo-Black.png" style="height: 150px; object-fit: contain;" alt="Berkshire Grey Logo" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">Berkshire Grey</figcaption>
+        </figure>
+    </div>
+</div>
 
 ### Organizers
 &nbsp;
@@ -172,3 +192,4 @@ Submission will be accepted through [OpenReview]().
         </figure>
     </div>
 </div> -->
+
