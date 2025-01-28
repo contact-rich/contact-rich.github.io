@@ -33,15 +33,16 @@ The workshop will feature talks, presentations, and heated debates to evaluate h
 
 ### Call for papers
 
-Important Dates:
+Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 
-- Submission portal opens: TBA
-- Paper submission deadline: TBA 
-- Notification of acceptance: TBA 
-- Workshop date: 2025/05/19
+- Submission portal opens: 2025.3.17
+- Paper submission deadline: 2025.4.20
+- Notification of acceptance: 2025.5.2
+- Final Submission due date: 2025.5.16
+- Workshop date: 2025.5.19 or 2025.5.23 (half day)
 
 See our [Call for papers page](/callforpapers) for more details.
-Submission will be accepted through [OpenReview]().
+Submission will be accepted through [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/CRM#tab-recent-activity).
 
 
 &nbsp;

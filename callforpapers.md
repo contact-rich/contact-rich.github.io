@@ -4,20 +4,34 @@ title: Call for papers
 permalink: /callforpapers/
 ---
 
-We invite submissions on all aspects of contact-rich manipulation, with a particular focus on the algorithmic and practical challenges of combining model-based and learning-based approaches.
+## Topics of Interest
+We invite researchers to submit short papers that present recently published work, preliminary results, ongoing work, and demos relevant to the workshop's theme. Submissions will undergo a review process by the organizers, with acceptance based on the quality, originality, and relevance to the topics of the workshop.
 
 
-Submissions should be anonymized and must not exceed 2 pages, following the ICRA format. We encourage authors to include videos, code, or data as supplementary material, either in a zip file or through external anonymized links.
+The topics of interest focus on the algorithmic and practical challenges of combining model-based and learning-based approaches for contact-rich manipulation, specifically including (but not limited to):
 
-Accepted papers will be presented as either posters presentations and will be archived on the workshop website with the authors' permission. All presentations will take place on-site during the workshop, and currently, we do not plan to offer remote presentation options.
+- Contact simulation and approaches to addressing sim2real gaps with pervasive contact in practice
+- Reinforcement learning and imitation learning for contact-rich dexterous manipulation
+- Contact models and their roles in increasing efficiency and performance of policy learning
+- Advances in optimization and learning through hybrid and multi-modal contact dynamics
+- Reactive control and planning for robustness to expected or unexpected contact events
+- Manipulation with soft and deformable objects, utilizing compliance and softness in contacts
+- Representation learning and higher-abstraction models for long-horizon manipulation through contact sequences.
+- Bridging perception and tactile sensing with downstream planning and control with contact.
+
+All accepted papers will be presented as posters during the interactive session and will be archived publicly on the workshop website with the authors’ permission. Selected spotlight papers will have an additional short contribution talk session.
 
 
-Important Dates:
+## Submission Instructions and Important Dates:
 
-- Submission portal opens: TBA 
-- Paper submission deadline: TBA 
-- Notification of acceptance: TBA 
-- Workshop date: TBA
+Submissions should be 2-4 pages (not including references), following the ICRA format. The submission and review process will proceed through [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/CRM#tab-recent-activity).
+We encourage authors to include videos, code, or data as supplementary material, either in a zip file or through external links.
 
-Submission will be accepted through [OpenReview]().
+Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
+
+- Submission portal opens: 2025.3.17
+- Paper submission deadline: 2025.4.20
+- Notification of acceptance: 2025.5.2
+- Final Submission due date: 2025.5.16
+- Workshop date: 2025.5.19 or 2025.5.23 (half day)
 
