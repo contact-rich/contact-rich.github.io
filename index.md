@@ -24,12 +24,9 @@ The workshop will bring together researchers to debate the future of dexterous r
 
 The workshop will feature talks, presentations, and heated debates to evaluate how these approaches can be combined to enhance robotic autonomy and efficiency in contact-rich environments. Participants will critically examine whether traditional robotics techniques remain relevant in a field increasingly dominated by machine learning and discuss the skills and strategies needed to develop the next generation of intelligent robots.
 
-
-
-
 &nbsp;
+<iframe src="gallery.html" width="100%"  allow="autoplay" style="border:none; max-width: 1000px; aspect-ratio: 16 / 10; margin: 0 auto"></iframe>
 &nbsp;
-
 
 ### Call for papers
 
@@ -39,7 +36,7 @@ Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 - Paper submission deadline: 2025.4.20
 - Notification of acceptance: 2025.5.2
 - Final Submission due date: 2025.5.16
-- Workshop date: 2025.5.19 or 2025.5.23 (half day)
+- Workshop date: 2025.5.19 (half day)
 
 See our [Call for papers page](/callforpapers) for more details.
 Submission will be accepted through [OpenReview](https://openreview.net/group?id=IEEE.org/ICRA/2025/Workshop/CRM#tab-recent-activity).

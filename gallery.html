@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="stylesheet" href="assets/css/bulma.min.css">
+    <link rel="stylesheet" href="assets/css/bulma-carousel.min.css">
+    <script src="assets/js/bulma-carousel.min.js"></script>
+    <style>
+        /* Prevent unwanted scrolling */
+        html, body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            max-width: 1000px;
+        }
+
+        /* Carousel container */
+        .carousel-container {
+            width: 100%;
+            height: auto;
+            max-width: 1000px;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        /* Carousel settings */
+        .carousel {
+            width: 100%;
+            height: auto;
+            aspect-ratio: 16 / 9;
+            max-width: 1000px;
+            overflow: hidden;
+        }
+
+        .carousel .item {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: auto;
+            max-width: 1000px;
+            overflow: hidden;
+        }
+
+        /* 2×2 Grid inside each carousel item */
+        .media-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: repeat(2, 1fr);
+            gap: 0px;
+            width: 100%;
+            max-width: 1000px;
+            aspect-ratio: 16 / 9;
+        }
+
+        /* Make media auto-fit while keeping aspect ratio */
+        .media-grid img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            display: block;
+            aspect-ratio: 16 / 9;
+            max-width: 500px;
+        }
+        /* Make media auto-fit while keeping aspect ratio */
+        .media-grid video{
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            display: block;
+            max-width: 500px;
+            aspect-ratio: 16 / 9;
+        }
+
+
+    </style>
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <div id="gallery-carousel" class="carousel">
+                <div class="item">
+                    <div class="media-grid">
+                        <img src="assets/img/gallery_highlights/hand_cube.png" alt="Image Hand Cube">
+
+                        <a href="https://roboticsproceedings.org/rss19/p044.pdf" target="_blank">
+                            <video src="assets/videos/gallery_highlights/STOCS_2D.mp4?v=1.0" autoplay loop muted playsinline disablePictureInPicture aria-label="Video STOCS 2D"></video>
+                        </a>
+
+                        <a href="https://sites.google.com/view/adaptive-contact-implicit-mpc/home" target="_blank">
+                            <video src="assets/videos/gallery_highlights/Adaptive_CI_MPC.mp4?v=1.0" autoplay loop muted playsinline disablePictureInPicture aria-label="Video Adaptive CI-MPC"></video>
+                        </a>
+
+                        <video src="assets/videos/gallery_highlights/Dynamic_Fliipping.mp4?v=1.0" autoplay loop muted playsinline disablePictureInPicture aria-label="Video Dynamic Flipping"></video>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="media-grid">
+                        <a href="https://arxiv.org/abs/2407.16976" target="_blank">
+                            <img src="assets/img/gallery_highlights/STOCS_3D_GIF.gif" alt="Image STOCS 3D">
+                        </a>
+                        <img src="assets/img/gallery_highlights/hand_cube.png" alt="Image">
+                        <img src="assets/img/gallery_highlights/hand_cube.png" alt="Image">
+                        <img src="assets/img/gallery_highlights/hand_cube.png" alt="Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        let carousels = bulmaCarousel.attach('#gallery-carousel', {
+            slidesToScroll: 1,
+            slidesToShow: 1,
+            infinite: true,
+            autoplay: false
+        });
+
+        // Ensure videos play after initialization
+        document.querySelectorAll('video').forEach(video => {
+            video.play().catch(error => console.log('Autoplay prevented:', error));
+        });
+
+        // Fix carousel & videos getting stuck on resize
+        window.addEventListener("resize", function () {
+            setTimeout(() => {
+                let carousel = document.getElementById('gallery-carousel');
+                if (carousel) {
+                    let width = carousel.clientWidth;
+                    carousel.style.height = (width * 9 / 16) + "px"; // Maintain 16:9 aspect ratio
+
+                    // Restart carousel & fix video playback
+                    carousels.forEach(carousel => {
+                        carousel.reset();
+                    });
+
+                    document.querySelectorAll('video').forEach(video => {
+                        if (video.paused) {
+                            video.play();
+                        }
+                    });
+                }
+            }, 200); // Small delay to ensure proper resizing
+        });
+    });
+    </script>
+</body>
+</html>

@@ -16,8 +16,8 @@ The topics of interest focus on the algorithmic and practical challenges of comb
 - Advances in optimization and learning through hybrid and multi-modal contact dynamics
 - Reactive control and planning for robustness to expected or unexpected contact events
 - Manipulation with soft and deformable objects, utilizing compliance and softness in contacts
-- Representation learning and higher-abstraction models for long-horizon manipulation through contact sequences.
-- Bridging perception and tactile sensing with downstream planning and control with contact.
+- Representation learning and higher-abstraction models for long-horizon manipulation through contact sequences
+- Bridging perception and tactile sensing with downstream planning and control with contact
 
 All accepted papers will be presented as posters during the interactive session and will be archived publicly on the workshop website with the authors’ permission. Selected spotlight papers will have an additional short contribution talk session.
 
@@ -33,5 +33,5 @@ Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 - Paper submission deadline: 2025.4.20
 - Notification of acceptance: 2025.5.2
 - Final Submission due date: 2025.5.16
-- Workshop date: 2025.5.19 or 2025.5.23 (half day)
+- Workshop date: 2025.5.19 (half day)
 
