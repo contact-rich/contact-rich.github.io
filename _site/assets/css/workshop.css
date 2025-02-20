@@ -224,3 +224,87 @@ figure figcaption {
   display: block;
   padding: .625rem .5rem;
 }
+
+
+/* Countdown Style */
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.submission-box {
+  margin: 0 10px; /* Center horizontally */
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Center vertically */
+  max-width: 250px; /* Adjust the value as needed */
+}
+
+.time-box {
+  margin: 0 10px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.time-number {
+  display: block;
+  font-size: 2em; /* Large number display */
+  color: #333; /* Number color */
+  margin-bottom: 5px;
+}
+
+.time-label {
+  font-size: 1em; /* Smaller label text */
+  color: #777; /* Label text color */
+  text-transform: uppercase; /* UPPERCASE label */
+}
+
+.toggle-title {
+  background-color: transparent;
+  color: #333;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  border-top: 1px solid white; /* visual separation of items */
+  transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+.toggle-title:hover {
+  background-color: #555; /* Change color on hover for visual feedback */
+}
+
+.toggle-content {
+  padding: 10px 20px;
+  display: none;
+  overflow: hidden;
+  background-color: transparent;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.modal-overlay {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
