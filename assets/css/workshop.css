@@ -224,3 +224,153 @@ figure figcaption {
   display: block;
   padding: .625rem .5rem;
 }
+
+/* Flip Clock Animation */
+
+#flip-clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Arial', sans-serif;
+  font-size: 2em;
+}
+
+.flip-number {
+  position: relative;
+  margin: 0 5px;
+  height: 50px;
+  overflow: hidden;
+  color: black;
+}
+
+.flip-number::before,
+.flip-number::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 50%;
+  background: white;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 25px;
+}
+
+.flip-number::after {
+  top: unset;
+  bottom: 0;
+  line-height: 25px;
+}
+
+.colon {
+  margin: 0 5px;
+}
+
+
+/* Countdown Style */
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.submission-box {
+  margin: 0 10px; /* Center horizontally */
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center; /* Center vertically */
+  max-width: 250px; /* Adjust the value as needed */
+}
+
+.time-box {
+  margin: 0 10px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.time-number {
+  display: block;
+  font-size: 2em; /* Large number display */
+  color: #333; /* Number color */
+  margin-bottom: 5px;
+}
+
+.time-label {
+  font-size: 1em; /* Smaller label text */
+  color: #777; /* Label text color */
+  text-transform: uppercase; /* UPPERCASE label */
+}
+
+.toggle-title {
+  background-color: transparent;
+  color: #333;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  border-top: 1px solid white; /* visual separation of items */
+  transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+.toggle-title:hover {
+  background-color: #555; /* Change color on hover for visual feedback */
+}
+
+.toggle-content {
+  padding: 10px 20px;
+  display: none;
+  overflow: hidden;
+  background-color: transparent;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+.modal-overlay {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal content */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  animation-name: animatetop;
+  animation-duration: 0.4s;
+  -webkit-animation: animatetop 0.4s; /* For Safari */
+}
+
+/* Animation for the modal entering */
+@keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}
+
+/* WebKit-specific animation */
+@-webkit-keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}

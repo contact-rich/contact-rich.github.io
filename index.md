@@ -85,9 +85,8 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
 
 &nbsp;
 
-### Debate Moderator
+### Discussion Moderator
 &nbsp;
-
 <div class="grid">
     <div class="grid-item">
         <figure>
@@ -97,6 +96,33 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
     </div>
 </div>
 
+<section id="schedules">
+    <h2 class="mb-3">Schedule</h2>
+    <!-- Schedule -->
+    <!-- Comment out the following line and uncomment it if there is urgent notice about schedule.  -->
+    <!-- <p class="highlight">Important notice.</p> -->
+    <div class="countdown-container">
+    <div class="time-box">
+        <span id="days" class="time-number">00</span>
+        <span class="time-label">days</span>
+    </div>
+    <div class="time-box">
+        <span id="hours" class="time-number">00</span>
+        <span class="time-label">hours</span>
+    </div>
+    <div class="time-box">
+        <span id="minutes" class="time-number">00</span>
+        <span class="time-label">minutes</span>
+    </div>
+    </div>
+    <div id="real-time-clock">
+    </div>
+</section>
+
+<script>
+    selectTokyoTime();
+    updateScheduleStyles();
+</script>
 
 ### Sponsors
 
