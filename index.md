@@ -143,6 +143,15 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
             <figcaption style="font-size: 18px; margin-top: 10px;">Berkshire Grey</figcaption>
         </figure>
     </div>
+    <div>
+        <figure style="text-align: center;">
+            <a href="https://www.ieee-ras.org/algorithms-for-planning-and-control-of-robot-motion" target="_blank">
+                <img src="assets/img/sponsors/ras-algo-logo.png" style="height: 180px; object-fit: contain;" alt="TC for algorithms for planning and control of robot motion" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">Technical Committee for Algorithms for Planning and Control of Robot Motion</figcaption>
+        </figure>
+    </div>
+    
 </div>
 
 ### Organizers
