@@ -3,13 +3,13 @@
 sequence_id: 3
 
 # Speaker name
-speaker: See details below
+speaker: Kris Hauser
 
 # Title of the event
-title: Poster Session & Coffee Break
+title: TBA 
 
 # Time of the event
-time: 14:20-14:50
-
-# video_url: "https://www.youtube.com/watch?v=tZKwTE2poC8&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=4"
+time: 14:10-14:40
+# video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
 ---
+

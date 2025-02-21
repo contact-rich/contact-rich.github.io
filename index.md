@@ -28,7 +28,8 @@ workshop_length: Half-day workshop
 &nbsp;
 
 
-This workshop explores the challenge of enabling robots to autonomously handle complex, contact-rich interactions. Traditionally, model-based methods have provided structured frameworks for planning and control, while recent learning-based methods have leveraged large datasets to achieve new capabilities. However, these methods often overlook the structured insights that model-based approaches offer. As robotics continues to evolve, there is a growing need to integrate the adaptability of learning-based techniques with the precision and efficiency of model-based strategies.
+This workshop explores the challenge of enabling robots to autonomously handle complex, contact-rich interactions. Traditionally, model-based methods have provided structured frameworks for planning and control, while recent learning-based methods have leveraged large datasets to achieve new capabilities. However, these methods often overlook the structured insights that model-based approaches offer. As robotics continues to evolve, there is a growing need to integrate the adaptability of learning-based techniques with the precision and efficiency of model-based strategies. We are the successor to the [Workshop on Leveraging Models for Contact-Rich Manipulation (IROS 2023)](https://sites.google.com/view/iros2023-contactrich), continuing the discussion on how best to integrate these two paradigms.
+
 
 The workshop will bring together researchers to debate the future of dexterous robot manipulation and the roles of model-based optimization versus data-driven approaches. Key questions to be explored include:
 

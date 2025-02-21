@@ -53,7 +53,7 @@ attribution: >
   <a href="https://github.com/krrish94/sniffle-workshop" target="_blank">Template</a> 
 
 # Displays a "last updated" date in the footer if set to "true"
-last_updated: true
+last_updated: false
 
 # Define collections (speakers, organizers, papers)
 # To turn off any of these collections, just set "output" to "false"
