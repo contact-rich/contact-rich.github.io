@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Email: haonan2@illinois.edu
+Email: icra2025crmworkshop@gmail.com
