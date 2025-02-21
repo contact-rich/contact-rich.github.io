@@ -9,7 +9,7 @@ speaker: Katerina Fragkiadaki
 title: TBA
 
 # Time of the event
-time: 15:35-15:05
+time: TBA # 15:35-15:05
 
 
 # video_url: "https://www.youtube.com/watch?v=dF1Fr8n_Ufc&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=5"

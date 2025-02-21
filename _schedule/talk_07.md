@@ -10,7 +10,7 @@ speaker: Yunzhu Li, Russ Tedrake, Ken Goldberg, Kris Hauser, Katerina Fragkiadak
 title: 'Panel Discussion: Roles of Physics-Based Models and Data-Driven Learning in Contact-Rich Manipulation'
 
 # Time of the event
-time: 16:35-17:35
+time: TBA # 16:35-17:35
 
 # video_url: "https://www.youtube.com/watch?v=pGjzxdD2Sa4&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=13"
 ---

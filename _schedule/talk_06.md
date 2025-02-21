@@ -9,6 +9,6 @@ speaker: Russ Tedrake
 title: TBA
 
 # Time of the event
-time: 16:05-16:35
+time: TBA # 16:05-16:35
 
 ---

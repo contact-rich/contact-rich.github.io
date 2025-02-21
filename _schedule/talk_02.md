@@ -9,7 +9,7 @@ speaker: Ken Goldberg
 title: TBA 
 
 # Time of the event
-time: 13:40-14:10 
+time: TBA # 13:40-14:10 
 # video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
 ---
 
