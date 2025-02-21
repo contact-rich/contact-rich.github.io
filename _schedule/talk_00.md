@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Speaker name
-speaker: Organizers
+speaker: Speakers 
 
 # Title of the event
 title: Opening remarks
