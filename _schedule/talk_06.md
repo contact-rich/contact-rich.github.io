@@ -6,7 +6,7 @@ sequence_id: 6
 speaker: Russ Tedrake
 
 # Title of the event
-title: TBA
+title: Do Large Behavior Models benefit from F=MA?
 
 # Time of the event
 time: TBA # 16:05-16:35
