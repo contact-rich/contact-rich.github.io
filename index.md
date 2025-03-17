@@ -141,6 +141,14 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
             <figcaption style="font-size: 18px; margin-top: 10px;">Technical Committee for Algorithms for Planning and Control of Robot Motion</figcaption>
         </figure>
     </div>
+    <div>
+        <figure style="text-align: center;">
+            <a href="https://www.ieee-ras.org/robot-learning" target="_blank">
+                <img src="assets/img/sponsors/ras-robot-learning-logo.png" style="height: 180px; object-fit: contain;" alt="TC for robot learning" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">Technical Committee for Robot Learning</figcaption>
+        </figure>
+    </div>
     
 </div>
 
