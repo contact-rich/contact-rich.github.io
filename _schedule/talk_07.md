@@ -1,16 +1,14 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 7
+sequence_id: 6
 
 # Speaker name
-speaker: Yunzhu Li, Russ Tedrake, Ken Goldberg, Kris Hauser, Katerina Fragkiadaki
-
+speaker: Ken Goldberg
 
 # Title of the event
-title: 'Panel Discussion: Roles of Physics-Based Models and Data-Driven Learning in Contact-Rich Manipulation'
+title: Is Data All You Need? Large Robot Action Models and Good Old Fashioned Engineering 
 
 # Time of the event
-time: TBA # 16:35-17:35
+time: 16:30-17:00
 
-# video_url: "https://www.youtube.com/watch?v=pGjzxdD2Sa4&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=13"
 ---

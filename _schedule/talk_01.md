@@ -9,7 +9,7 @@ speaker: Danica Kragic
 title: From contacts to more contacts 
 
 # Time of the event
-time: TBA # 13:10-13:40 
+time: 13:40-14:10 
 # video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
 ---
 

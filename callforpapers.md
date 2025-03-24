@@ -35,3 +35,8 @@ Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 - Final Submission due date: 2025.5.16
 - Workshop date: 2025.5.19 (half day)
 
+## Awards
+We are excited to announce that Best Paper and Best Paper Runner-Up awards will be given at the workshop!
+
+<p><strong style="color:#d4af37;">🏆 Best Paper Award: $300</strong><br>
+<strong style="color:#c0c0c0;">🥈 Best Paper Runner-Up: $100</strong></p>

@@ -3,13 +3,13 @@
 sequence_id: 5
 
 # Speaker name
-speaker: Katerina Fragkiadaki
+speaker: See details below
 
 # Title of the event
-title: TBA
+title: Poster Session & Coffee Break
 
 # Time of the event
-time: TBA # 15:35-15:05
+time: 15:30-16:00
 
 
 # video_url: "https://www.youtube.com/watch?v=dF1Fr8n_Ufc&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=5"

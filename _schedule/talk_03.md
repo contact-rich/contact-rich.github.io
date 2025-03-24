@@ -9,7 +9,7 @@ speaker: Kris Hauser
 title: TBA 
 
 # Time of the event
-time: TBA # 14:10-14:40
+time: 14:40-15:10
 # video_url: "https://www.youtube.com/watch?v=PB7iDqQpXq0&list=PLtF7v_W_CG5oG_lhI9tA1g4dPJKBOWDsA&index=2"
 ---
 

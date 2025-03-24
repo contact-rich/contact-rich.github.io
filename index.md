@@ -47,6 +47,11 @@ The workshop will feature talks, presentations, and heated debates to evaluate h
 
 ### Call for papers
 
+We are excited to announce that Best Paper and Best Paper Runner-Up awards will be given at the workshop!
+
+<p><strong style="color:#d4af37;">🏆 Best Paper Award: $300</strong><br>
+<strong style="color:#c0c0c0;">🥈 Best Paper Runner-Up: $100</strong></p>
+
 Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 
 - Submission portal opens: 2025.3.17

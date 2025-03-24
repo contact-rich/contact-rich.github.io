@@ -3,12 +3,12 @@
 sequence_id: 6
 
 # Speaker name
-speaker: Russ Tedrake
+speaker: Katerina Fragkiadaki
 
 # Title of the event
-title: Do Large Behavior Models benefit from F=MA?
+title: TBA
 
 # Time of the event
-time: TBA # 16:05-16:35
+time: 16:00-16:30
 
 ---
