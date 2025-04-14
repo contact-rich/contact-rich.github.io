@@ -124,6 +124,14 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
 <div class="grid">
     <div>
         <figure style="text-align: center;">
+            <a href="https://www.tri.global/" target="_blank">
+                <img src="assets/img/sponsors/tri_logo.svg" style="height: 150px; object-fit: contain;" alt="Toyota Research Institute Logo" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">Toyota Research Institute</figcaption>
+        </figure>
+    </div>
+    <div>
+        <figure style="text-align: center;">
             <a href="https://www.carbon6robotics.com/" target="_blank">
                 <img src="assets/img/sponsors/carbon_six_logo.png" style="height: 150px; object-fit: contain;" alt="CarbonSix Logo" />
             </a>

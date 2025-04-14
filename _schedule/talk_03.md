@@ -6,7 +6,7 @@ sequence_id: 3
 speaker: Kris Hauser
 
 # Title of the event
-title: TBA 
+title: New models for bridging contact-rich planning and perception
 
 # Time of the event
 time: 14:40-15:10
