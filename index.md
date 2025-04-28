@@ -56,7 +56,7 @@ Important Dates: all deadlines are 11:59PM UTC (anywhere on earth):
 
 - Submission portal opens: 2025.3.17
 - Paper submission deadline: 2025.4.20
-- Notification of acceptance: 2025.5.2
+- Notification of acceptance: 2025.5.9
 - Final Submission due date: 2025.5.16
 - Workshop date: 2025.5.19 (half day)
 
