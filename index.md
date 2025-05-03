@@ -162,6 +162,14 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
             <figcaption style="font-size: 18px; margin-top: 10px;">Technical Committee for Robot Learning</figcaption>
         </figure>
     </div>
+    <div>
+        <figure style="text-align: center;">
+            <a href="https://ieee-ras-robot-control.github.io/" target="_blank">
+                <img src="assets/img/sponsors/ras-robot-control-logo.png" style="height: 180px; object-fit: contain;" alt="TC for robot control" />
+            </a>
+            <figcaption style="font-size: 18px; margin-top: 10px;">Technical Committee for Robot Control</figcaption>
+        </figure>
+    </div>
     
 </div>
 
