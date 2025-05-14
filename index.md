@@ -8,8 +8,11 @@ workshop_title: Learning Meets Model-Based Methods for Contact-Rich Manipulation
 layout: home
 conference_title: ICRA 2025, Atlanta, USA
 workshop_date: Monday, May 19th, 2025
-workshop_length: Half-day workshop
+workshop_length: Half-day workshop, 1:30 PM - 6:00 PM
 ---
+<p align="center" style=" font-size: 24px">
+    <a href="https://www.gwcca.org/interactive-floor-plans">GWCC Building A, Room 412</a>
+</p>
 <div class="countdown-container">
 <div class="time-box">
     <span id="days" class="time-number">00</span>

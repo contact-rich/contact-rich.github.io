@@ -3,25 +3,41 @@ layout: schedule
 title: Schedule
 permalink: /schedule/
 ---
-## Poster Presentation
+## Poster Presentation Instructions
 
-<!-- Our poster section will be hosted in MUSE 1 (Not the same room as our workshop!!!) from 10:40 to 11:10.  -->
+<!-- Our poster section will be hosted xxx from 10:40 to 11:10.  -->
 
-We have no constraints on poster format.
+The poster should follow the ICRA standard format: no larger than 44 inches wide by 45 inches high. You may also check the digital version of the poster in the [accepted papers page](/papers).
 
 
-<!-- ## Oral Presentation
+## Oral Presentation Instructions
 
-Our oral presentation will follow the following order. For all the presenters, please bring your own device, and send your finalized slides to the workshop official email no later than EOD, Nov. 5th. 
+The oral presentation will follow the following order:
+<!-- For all the presenters, please bring your own device, and send your finalized slides to the workshop official email no later than EOD.  -->
+<ol start="1">
+  <li>
+    Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries <br>
+    Abhay Negi, Omey M. Manyar, Dhanush Kumar Varma Penmetsa, Satyandra Gupta
+  </li>
+  <br>
+  <li>
+    Strategic Jenga Play via Graph Based Dynamics Modeling <br>
+    Kavya Puthuveetil, Xinyi Zhang, Kazuto Yokoyama, Tetsuya Narita 
+  </li>
+  <br>
+  <li>
+    Adaptive Compliance Policy: Learning Approximate Compliance for Diffusion Guided Control <br>
+    Yifan Hou, Zeyi Liu, Cheng Chi, Eric Cousineau, Naveen Kuppuswamy, Siyuan Feng, Benjamin Burchfiel, Shuran Song 
+  </li>
+  <br>
+  <li>
+    Robust Model-Based In-Hand Manipulation with Integrated Real-Time Motion-Contact Planning and Tracking <br>
+    Yongpeng Jiang 
+  </li>
+</ol>
 
-1. Human-in-the-Loop Task and Motion Planning for Imitation Learning
-2. State Estimation Transformers for Agile Legged Locomotion
-3. Generalized Animal Imitator: Agile Locomotion with Versatile Motion Prior
-4. Deep Evidential Traversability Learning for Risk-Aware Off-Road Navigation
-5. LOTUS: Continual Imitation Learning for Robot Manipulation Through Unsupervised Skill Discovery
-6. Extreme Parkour with Legged Robots
-
-The first 3 presentations take 5 minutes each, and the last 3 take 3 minutes each. -->
+Each in person presentation will be 5 minutes long, followed by 1 minute quick Q&A.
+<!-- The virtual presentation will not be played during the workshop, but you can check the link for the video. -->
 
 <!-- ## Honors and Awards -->
 
