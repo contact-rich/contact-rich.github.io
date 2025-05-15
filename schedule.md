@@ -31,13 +31,13 @@ The oral presentation will follow the following order:
   </li>
   <br>
   <li>
-    Robust Model-Based In-Hand Manipulation with Integrated Real-Time Motion-Contact Planning and Tracking <br>
+    Robust Model-Based In-Hand Manipulation with Integrated Real-Time Motion-Contact Planning and Tracking (Virtual) <br>
     Yongpeng Jiang 
   </li>
 </ol>
 
 Each in person presentation will be 5 minutes long, followed by 1 minute quick Q&A.
-<!-- The virtual presentation will not be played during the workshop, but you can check the link for the video. -->
+The virtual presentation will not be played during the workshop, you can check the link for the virtual presentation video.
 
 <!-- ## Honors and Awards -->
 

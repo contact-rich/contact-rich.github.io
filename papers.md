@@ -201,7 +201,7 @@ permalink: /papers/
   </li>
   <br>
   <li>
-    Neural Dynamics Augmented Diffusion Policypdf icon <br>
+    Neural Dynamics Augmented Diffusion Policy <br>
     Ruihai Wu, Haozhe Chen, Mingtong Zhang, Haoran Lu, Yitong Li, Yunzhu Li        
   </li>
 </ol>
