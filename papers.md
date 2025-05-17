@@ -161,7 +161,7 @@ permalink: /papers/
   </li>
   <br>
   <li>
-    <a href="/assets/pdf/papers/11_Geometry_Aware_Demonstration.pdf"> AnySkin: Plug-and-play Skin Sensing for Robotic Touch </a> Geometry-Aware Demonstration Augmentation for Scalable Robotic Manipulation </a> <br>
+    <a href="/assets/pdf/papers/11_Geometry_Aware_Demonstration.pdf"> Geometry-Aware Demonstration Augmentation for Scalable Robotic Manipulation </a> <br>
     Michael Sha, Yipu Chen, Minghao Guo, Yunsheng Tian, Chuang Gan, Wojciech Matusik    
   </li>
   <br>
