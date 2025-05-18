@@ -6,7 +6,7 @@ sequence_id: 3
 speaker: Kris Hauser
 
 # Title of the event
-title: New models for bridging contact-rich planning and perception
+title: New Models for Bridging Contact-rich Planning and Perception
 
 # Time of the event
 time: 14:40-15:10

@@ -75,10 +75,16 @@ Submission will be accepted through [OpenReview](https://openreview.net/group?id
 &nbsp;
 
 <div class="grid">
-    <div class="grid-item">
+    <!-- <div class="grid-item">
         <figure>
             <img src="assets/img/speakers/russ_tedrake.png" width="200" />
             <figcaption><b>Russ Tedrake</b><br>MIT</figcaption>
+        </figure>
+    </div> -->
+    <div class="grid-item">
+        <figure>
+            <img src="assets/img/speakers/paarth_shah.jpg" width="200" />
+            <figcaption><b>Paarth Shah</b><br>Toyota Research Institute (TRI)</figcaption>
         </figure>
     </div>
     <div class="grid-item">

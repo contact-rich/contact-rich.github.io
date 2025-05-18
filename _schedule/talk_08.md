@@ -3,7 +3,7 @@
 sequence_id: 8
 
 # Speaker name
-speaker: Yunzhu Li, Russ Tedrake, Ken Goldberg, Kris Hauser, Katerina Fragkiadaki
+speaker: Yunzhu Li, Paarth Shah, Ken Goldberg, Kris Hauser, Katerina Fragkiadaki
 
 
 # Title of the event

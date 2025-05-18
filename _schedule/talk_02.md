@@ -3,10 +3,10 @@
 sequence_id: 2
 
 # Speaker name
-speaker: Russ Tedrake
+speaker: Paarth Shah
 
 # Title of the event
-title: Do Large Behavior Models benefit from F=MA? 
+title: Scaling Dexterous Manipulation with Large Behavior Models
 
 # Time of the event
 time: 14:10-14:40 

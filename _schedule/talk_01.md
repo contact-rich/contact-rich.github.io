@@ -6,7 +6,7 @@ sequence_id: 1
 speaker: Danica Kragic
 
 # Title of the event
-title: From contacts to more contacts 
+title: From Contacts to More Contacts 
 
 # Time of the event
 time: 13:40-14:10 
