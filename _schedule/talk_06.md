@@ -6,7 +6,7 @@ sequence_id: 6
 speaker: Katerina Fragkiadaki
 
 # Title of the event
-title: TBA
+title: 3D Generative Manipulation Policies and Object Dynamics
 
 # Time of the event
 time: 16:00-16:30
