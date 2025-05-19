@@ -29,7 +29,7 @@ function toggleContent(element) {
 
 // Set the end date for the countdown
 // var countDownDate = new Date("May 13, 2024 09:00:00").getTime();
-var countDownDate = new Date("may 19, 2025 08:00:00").getTime();
+var countDownDate = new Date("may 19, 2025 13:30:00").getTime();
 
 // Update the countdown every 1 second
 var countdownFunction = setInterval(function() {
