@@ -18,11 +18,11 @@ workshop_length: Half-day workshop, 1:30 PM - 6:00 PM
 <p align="center" style=" font-size: 24px">
     <a href="https://www.gwcca.org/interactive-floor-plans">GWCC Building A, Room 412</a>
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="assets/img/floor_plan.jpg"  width="300"/>
-</p>
+</p> -->
 
-<div class="countdown-container">
+<!-- <div class="countdown-container">
 <div class="time-box">
     <span id="days" class="time-number">00</span>
     <span class="time-label">days</span>
@@ -35,7 +35,7 @@ workshop_length: Half-day workshop, 1:30 PM - 6:00 PM
     <span id="minutes" class="time-number">00</span>
     <span class="time-label">minutes</span>
 </div>
-</div>
+</div> -->
 &nbsp;
 &nbsp;
 
