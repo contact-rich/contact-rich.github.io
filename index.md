@@ -11,9 +11,9 @@ workshop_date: Monday, May 19th, 2025
 workshop_length: Half-day workshop, 1:30 PM - 6:00 PM
 ---
 
-<p align="center" style=" font-size: 24px">
+<!-- <p align="center" style=" font-size: 24px">
     <a href="https://illinois.zoom.us/j/87542078185?pwd=HXkdAe1eGV0qPlBxGvqqLWUn4lQfQz.1&from=addon">Join our Zoom livestream here!</a>
-</p>
+</p> -->
 
 <p align="center" style=" font-size: 24px">
     <a href="https://www.gwcca.org/interactive-floor-plans">GWCC Building A, Room 412</a>
