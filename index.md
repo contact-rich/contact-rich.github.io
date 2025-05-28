@@ -53,8 +53,26 @@ The workshop will bring together researchers to debate the future of dexterous r
 
 The workshop will feature talks, presentations, and heated debates to evaluate how these approaches can be combined to enhance robotic autonomy and efficiency in contact-rich environments. Participants will critically examine whether traditional robotics techniques remain relevant in a field increasingly dominated by machine learning and discuss the skills and strategies needed to develop the next generation of intelligent robots.
 
-&nbsp;
-<iframe src="gallery.html" width="100%"  allow="autoplay" style="border:none; max-width: 1000px; aspect-ratio: 16 / 10; margin: 0 auto"></iframe>
+<div style="text-align: center;">
+<p align="center" style=" font-size: 24px">
+    <a href="https://www.youtube.com/watch?v=jBvzCXBEK_M">The recording of the workshop can be checked here</a>
+</p>
+<iframe width="100%"
+        src="https://www.youtube.com/embed/jBvzCXBEK_M" 
+        title="Workshop Recording" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        style="border:none; max-width: 1000px; aspect-ratio: 16 / 10; margin: 0 auto"
+        allowfullscreen>
+</iframe>
+</div>
+
+<br />
+Check our highlight gallery for interesting research projects in contact-rich manipulation!
+
+<div style="text-align: center; margin: 0; padding: 0;">
+<iframe src="gallery.html" width="100%"  allow="autoplay" style="border: none; display: block; margin: 0 auto; max-width: 1000px; aspect-ratio: 16 / 10; padding: 0;"></iframe>
+</div>
 &nbsp;
 
 ### Call for papers
